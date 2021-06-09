@@ -10,3 +10,15 @@ repositório para aula de **git** e **github**
 * Aprender a baixar as mdificações;
 
 ## criar versão de arquivos modificados/incluindo/deletados
+
+
+
+```git
+git add .
+```
+
+comando para criar a versão do arquivo, **a mensagem entre aspas representar o que foi feito!**
+
+```git
+git commit -m "uma menagem do que foi realizado"
+```
