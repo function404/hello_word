@@ -8,3 +8,5 @@ repositório para aula de **git** e **github**
 * Aprender a fazer o commit;
 * Aprender a enviar as modificações para o github;
 * Aprender a baixar as mdificações;
+
+## criar versão de arquivos modificados/incluindo/deletados
