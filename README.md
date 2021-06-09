@@ -22,3 +22,8 @@ comando para criar a versão do arquivo, **a mensagem entre aspas representar o 
 ```git
 git commit -m "uma menagem do que foi realizado"
 ```
+
+comando para enviar a versão criada para o github
+```it
+gitpush origin main
+```
